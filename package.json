@@ -1,0 +1,19 @@
+{
+  "name": "ts-class",
+  "version": "1.0.0",
+  "license": "UNLICENSED",
+  "author": "ydainna",
+  "private": true,
+  "scripts": {
+    "start": "ts-node ./src/app.ts"
+  },
+  "dependencies": {
+    "tslog": "^3.3.4",
+    "typescript": "^4.8.4"
+  },
+  "devDependencies": {
+    "@tsconfig/node16": "^1.0.3",
+    "@types/node": "^16.11.7",
+    "ts-node": "^10.9.1"
+  }
+}
